@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SIM_TP5_VERSION-CHONA/1.0.0": {
+        "runtime": {
+          "SIM_TP5_VERSION-CHONA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SIM_TP5_VERSION-CHONA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

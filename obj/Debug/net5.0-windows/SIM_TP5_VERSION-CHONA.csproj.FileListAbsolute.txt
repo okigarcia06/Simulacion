@@ -1,0 +1,112 @@
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.exe
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.deps.json
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.json
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.dev.json
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.AssemblyReference.cache
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION_CHONA.Form1.resources
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.GenerateResource.cache
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfoInputs.cache
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfo.cs
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.CoreCompileInputs.cache
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\refint\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.genruntimeconfig.cache
+C:\Users\amiko\source\repos\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\ref\SIM_TP5_VERSION-CHONA.dll
+D:\SIM\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.exe
+D:\SIM\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.deps.json
+D:\SIM\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.json
+D:\SIM\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.dev.json
+D:\SIM\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+D:\SIM\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.AssemblyReference.cache
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION_CHONA.Form1.resources
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.GenerateResource.cache
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.GeneratedMSBuildEditorConfig.editorconfig
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfoInputs.cache
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfo.cs
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.CoreCompileInputs.cache
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\ref\SIM_TP5_VERSION-CHONA.dll
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.genruntimeconfig.cache
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.exe
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.deps.json
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.json
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.dev.json
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.AssemblyReference.cache
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION_CHONA.Form1.resources
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.GenerateResource.cache
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfoInputs.cache
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfo.cs
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.CoreCompileInputs.cache
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\refint\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.genruntimeconfig.cache
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\ref\SIM_TP5_VERSION-CHONA.dll
+D:\SIM\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\refint\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\Desktop\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION_CHONA.Forms.Form_RungeKutta.resources
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.AssemblyReference.cache
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION_CHONA.Form1.resources
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION_CHONA.Forms.Form_RungeKutta.resources
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.GenerateResource.cache
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfoInputs.cache
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfo.cs
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.CoreCompileInputs.cache
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\refint\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.exe
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.deps.json
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.json
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.dev.json
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.genruntimeconfig.cache
+C:\Users\amiko\Desktop\version limpia tp5\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\ref\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.exe
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.deps.json
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.json
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.dev.json
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.AssemblyReference.cache
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION_CHONA.Form1.resources
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION_CHONA.Forms.Form_RungeKutta.resources
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.GenerateResource.cache
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfoInputs.cache
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfo.cs
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.CoreCompileInputs.cache
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\refint\SIM_TP5_VERSION-CHONA.dll
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.genruntimeconfig.cache
+C:\Users\amiko\Desktop\version nueva tp6\SIM_TP5_VERSION-CHONA\obj\Debug\net5.0-windows\ref\SIM_TP5_VERSION-CHONA.dll
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.exe
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.deps.json
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.json
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.runtimeconfig.dev.json
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\bin\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.AssemblyReference.cache
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION_CHONA.Form1.resources
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION_CHONA.Forms.Form_RungeKutta.resources
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.GenerateResource.cache
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfoInputs.cache
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.AssemblyInfo.cs
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.csproj.CoreCompileInputs.cache
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.dll
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\refint\SIM_TP5_VERSION-CHONA.dll
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.pdb
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\SIM_TP5_VERSION-CHONA.genruntimeconfig.cache
+C:\Users\Octa\Desktop\SIM\TP 6\SIM_TP6_VERSION-CHONA\obj\Debug\net5.0-windows\ref\SIM_TP5_VERSION-CHONA.dll
